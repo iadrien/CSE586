@@ -1,2 +1,2 @@
-# CSE-586
+# CSE586
 Analysis of Image Data

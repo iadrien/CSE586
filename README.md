@@ -1,4 +1,7 @@
 # CSE586
-Analysis of Image Data
+Analysis of Imaging Data
 
-#### Project 1: Image Denoising
+#### Problem Set 1 and Project 1: Image Denoising
+###### Properties of convolution
+###### Image denoising by frequency filtering
+###### Image denoising by ROF model with gradient descent approach

@@ -5,3 +5,5 @@ Analysis of Imaging Data
 ###### Properties of convolution
 ###### Image denoising by frequency filtering
 ###### Image denoising by ROF model with gradient descent approach
+
+#### Problem Set 2 and Project 2: Image Registration

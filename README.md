@@ -1,5 +1,5 @@
 # CSE586
-Analysis of Imaging Data
+Analysis of Imaging Data at Washington University
 
 #### Problem Set 1 and Project 1: Image Denoising
 ###### Properties of convolution
